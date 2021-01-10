@@ -1,5 +1,5 @@
-# villagegist.github.io
-<!DOCTYPE html>
+WELCOME TO AFRICAN STORIES BLOQ
+This is a site of moonlight tale, where you can relax and enjoy, spend your time.
 <html lang="en-gb" dir="ltr">
 <title>AFRICAN MOONLIGHT NIGHT-TALE ENTERTAINMENT</title>
 
@@ -156,15 +156,14 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
-	<script data-ad-client="ca-pub-5928582715400854" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+<script data-ad-client="ca-pub-5928582715400854" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Navbar (sit on top) -->
 <div class="w3-float">
   <div class="w3-bar w3-black w3-wide w3-padding w3-card">
  
 
   
-    <a href="#home"  class="w3-bar-item w3-button"><marquee="left"> <h1>AFRICAN MOONLIGHT NIGHT-TALE ENTERTAINMENT</h1></a>
+    <a href="#home"  class="w3-bar-item w3-button"> <h1>AFRICAN MOONLIGHT NIGHT-TALE ENTERTAINMENT</h1></a>
 	
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
@@ -200,8 +199,7 @@ function showSlides() {
   <div class="w3-container w3-padding-32" id="projects">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">READ AND ENJOY YOUR DAY</h3>
   </div>
-<br>
-  
+
 
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
@@ -212,7 +210,7 @@ function showSlides() {
 		we put together knowledge and entertainment to enable readers have a good time while visiting our pages, we have here a lots of African  Fable stories to help you spend your time most especially while on a journey
         . we hope you find joy and satisfaction while having your time on these pages.
 Read the best collection of free bedtime stories, short stories for kids, fairy tales, online story books with kids art, audio stories, funny stories, poems. Read a bedtime story with a child tonight! 
-Enjoy our collection of 5 minutes bedtime stories for kids and adult alike below:  </b>	
+Enjoy our collection of 5 minutes bedtime stories for kids and adults alike below:  </b>	
 	
     </p>
   </div>
@@ -220,9 +218,9 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adult alike below
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image6.jpg" alt="John" style="width:95%">
-      <h3><a href="THE LION AND THE RAT.html"><b>THE LION AND THE RAT</b></a></h3>
+	    <h3><a href="THE LION AND THE RAT.html"><b>THE LION AND THE RAT</b></a></h3>
       
-       <p><button class="w3-button w3-light-grey w3-block"><a href="THE LION AND THE RAT.html">VISIT SITE</a></button></p>
+      <p><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image2.jpg" alt="smile" style="width:100%">
@@ -232,56 +230,58 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adult alike below
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image3.jpg" alt="tortoise" style="width:100%">
       <h6><a href="THE TORTOISE AND THE MEDICINE MAN.html"><b>THE TORTOISE AND THE MEDICINE MAN</b></a></h6>
-     <p><button class="w3-button w3-light-grey w3-block"><a href="THE TORTOISE AND THE MEDICINE MAN.html">VISIT SITE</a></button></p>
+      <p><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image4.jpg" alt="MAMA AFRICAN" style="width:100%"> 
 
-      <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</b></a></h6>
-     <p><button class="w3-button w3-light-grey w3-block"><a href="TATABIATA AND THE UNKNOW.html">VISIT SITE</a></button></p>
-  
+      <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</a></h6>
+      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div>
   <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="queen.jpg" alt="MAMA AFRICAN" style="width:85%">
-      <h6><a href="THE WICKED QUEEN.html">THE WICKED QUEEN</b></a></h6>
-      <p><button class="w3-button w3-light-grey w3-block"><a href="THE WICKED QUEEN.html">VISIT SITE</a></button></p> 
+      <h6><a href="THE WICKED QUEEN.html">TH WICKED QUEEN</a></h6>
+      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+ 
     </div>
   </div>
+  
+  
+  <p>
   <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="thesleepingqueen.jpg" alt="THE SLEEPING QUEEN" style="width:60%"> 
+      <img src="thesleepingqueen.jpg" alt="THE SLEEPING QUEEN" style="width:100%"> 
 
-      <h6><a href="the sleeping princess.html">THE SLEEPING QUEEN</b></a></h6>
-       <p><button class="w3-button w3-light-grey w3-block"><a href="the sleeping princess.html">VISIT SITE</a></button></p> 
+      <h6><a href="the sleeping princess.html">THE SLEEPING QUEEN</a></h6>
+      <p><button class="w3-button w3-light-blue w3-block"><a href="the sleeping princess.html">VISIT SITE</a></button></p>
     </div>
-	
-		
-
-		
-  <div class="w3-col l3 m6 w3-margin-bottom">
+    
+     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="THE UNKNOWSTRANGER.jpg" alt="MAMA AFRICAN" style="width:85%">
-      <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</b></a></h6>
-      <p><button class="w3-button w3-light-grey w3-block"><a href="THE UNKNOW STRANGER.html">VISIT SITE</a></button></p> 
+      <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</a></h6>
+     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
-  </div>
-	
-	<div class="w3-col l3 m6 w3-margin-bottom">
+
+  <P>
+	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="funnyFowl.jpeg" alt="FUNNY FOWL" style="width:85%">
-      <h6><a href="FUNNY FOWL.html">THE FUNNY FOWL</b></a></h6>
+      <h6><a href="FUNNY FOWL.html">THE FUNNY FOWL</a></h6>
      ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div
-
-
-   <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="myself.jpg" alt="PASTOR FELIX" style="width:75%"> 
-
-      <h6><a href="Biography.html">ABOUT THE AUTHOR</b></a></h6>
-	 <p><button class="w3-button w3-light-grey w3-block"><a href="Biography.html">VISIT SITE</a></button></p>
-    </div>
 	
+    
+    <p>
+   <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%"> 
+
+      <h6><a href="Biography.html">PASTOR FELIX ITAMAN UWAMUSI</a></h6>
+      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+    </div>
+    
   </div>
   </p>
+  
  
 
   <!-- Contact Section -->
@@ -306,18 +306,13 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adult alike below
 
 
 <!-- End page content -->
-</div>
+
 
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
-  <p style="text-align:center"><a href="AFRICAN MOONLIGHT NIGHT-TALE ENTERTAMENT.html">back to page</a></p>
- <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script 
- async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
- </div>
  <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root"></div>
   <script>(function(d, s, id) {
@@ -333,23 +328,12 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adult alike below
     data-href="https://www.thevillagegist.com/your-page.html" 
     data-layout="button_count">
   </div>
-  
-  <!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
-<!-- Your share button code -->
-<div class="fb-share-button" 
-data-href="https://www.thevillagegist.com/your-page.html" 
-data-layout="button_count">
-</div>
-  
-</body>
-</header>
-</html>
+<a href="https://twitter.com/intent/tweet?screen_name=TwitterDev&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">
+Tweet to @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">
+Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet
+</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
