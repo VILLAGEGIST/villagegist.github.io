@@ -79,7 +79,7 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 body {
-  background-color: red;
+  background-color: #RRGGBB;
   width: 100%; 
   
 }
