@@ -278,8 +278,14 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
      ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
   </div
-	
-    
+  <P>
+	<div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="theDog.jpg" alt="theDog" style="width:85%">
+      <h6><a href="𝗪𝗵𝘆 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗼𝗴 𝗮 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱 𝘁𝗼 𝗺𝗮𝗻.html">MAN AND THE DOG</a></h6>
+      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+ 
+    </div>
+    </P>
     <p>
    <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%"> 
