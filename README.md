@@ -220,29 +220,29 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <img src="image6.jpg" alt="John" style="width:95%">
 	    <h3><a href="THE LION AND THE RAT.html"><b>THE LION AND THE RAT</b></a></h3>
       
-      <p><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></p>
+      <p><a href="THE LION AND THE RAT.html"><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></a></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image2.jpg" alt="smile" style="width:100%">
       <p><a href="THE TORTOISE AND APIANPIAN.html"><b>THE TORTOISE AND APIANPIAN</b></a></p>
-      <p><button class="w3-button w3-light-grey w3-block"><a href="THE TORTOISE AND APIANPIAN.html">VISIT SITE</a></button></p>
+      <p><a href="THE TORTOISE AND APIANPIAN.html"><button class="w3-button w3-light-grey w3-block"><a href="THE TORTOISE AND APIANPIAN.html">VISIT SITE</a></button></a></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image3.jpg" alt="tortoise" style="width:100%">
       <h6><a href="THE TORTOISE AND THE MEDICINE MAN.html"><b>THE TORTOISE AND THE MEDICINE MAN</b></a></h6>
-      <p><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></p>
+      <p><a href="THE TORTOISE AND THE MEDICINE MAN.html"><button class="w3-button w3-light-grey w3-block">VISIT SITE</button></a></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image4.jpg" alt="MAMA AFRICAN" style="width:100%"> 
 
       <h6><a href="TATABIATA AND THE UNKNOW.html">TATABIATA AND THE UNKNOWN MAN</a></h6>
-      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+      <p><a href="TATABIATA AND THE UNKNOW.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
     </div>
  
   <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="queen.jpg" alt="MAMA AFRICAN" style="width:85%">
-      <h6><a href="THE WICKED QUEEN.html">TH WICKED QUEEN</a></h6>
-      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+      <h6><a href="THE WICKED QUEEN.html">THE WICKED QUEEN</a></h6>
+      <p><a href="THE WICKED QUEEN.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
  
@@ -253,20 +253,20 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <img src="thesleepingqueen.jpg" alt="THE SLEEPING QUEEN" style="width:100%"> 
 
       <h6><a href="the sleeping princess.html">THE SLEEPING QUEEN</a></h6>
-      <p><button class="w3-button w3-light-blue w3-block"><a href="the sleeping princess.html">VISIT SITE</a></button></p>
+      <p><a href="the sleeping princess.html"><button class="w3-button w3-light-blue w3-block"><a href="the sleeping princess.html">VISIT SITE</a></button></a></p>
     </div>
     
      <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="THE UNKNOWSTRANGER.jpg" alt="MAMA AFRICAN" style="width:85%">
       <h6><a href="THE UNKNOW STRANGER.html">THE UNKNOW STRANGER</a></h6>
-     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+     <p><a href="THE UNKNOW STRANGER.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
     </div>
 
   <P>
 	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="funnyFowl.jpeg" alt="FUNNY FOWL" style="width:85%">
       <h6><a href="FUNNY FOWL.html">THE FUNNY FOWL</a></h6>
-     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+     <p><a href="FUNNY FOWL.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
     </div>
  
 	
@@ -275,13 +275,13 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
 	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="magicpot.jpg" alt="MAGIC POT" style="width:85%">
       <h6><a href="MAGIC POT.html">THE MAGIC POT</a></h6>
-     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+     <p><a href="MAGIC POT.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
     </div>
   <P>
 	<div class="w3-col l3 m6 w3-margin-bottom">
       <img src="theDog.jpg" alt="theDog" style="width:85%">
       <h6><a href="𝗪𝗵𝘆 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗼𝗴 𝗮 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱 𝘁𝗼 𝗺𝗮𝗻.html">MAN AND THE DOG</a></h6>
-      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+      <p><a href="𝗪𝗵𝘆 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗼𝗴 𝗮 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱 𝘁𝗼 𝗺𝗮𝗻.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
     </P>
@@ -290,7 +290,16 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
 
       <img src="THE CAT IN THE KITCHEN.jpg" alt="theDog" style="width:85%">
       <h6><a href="THE CAT IN THE KITCHEN.html">THE CAT IN THE KITCHEN</a></h6>
-      <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+      <p><a href="THE CAT IN THE KITCHEN.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
+    </P>
+    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src="THE CUNNY TORTOISE.jpg" alt="theDog" style="width:85%">
+      <h6><a href="THE CUNNY TORTOISE.html">THE CUNNY TORTOISE</a></h6>
+      <p><a href="THE CUNNY TORTOISE.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
     </P>
