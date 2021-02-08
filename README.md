@@ -287,8 +287,8 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
     </div>
     </P>
     
-    <P>
-	<div class="w3-col l3 m6 w3-margin-bottom">
+   <div class="w3-col l3 m6 w3-margin-bottom">
+
       <img src="THE CAT IN THE KITCHEN.jpg" alt="theDog" style="width:85%">
       <h6><a href="THE CAT IN THE KITCHEN.html">THE CAT IN THE KITCHEN</a></h6>
       <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
