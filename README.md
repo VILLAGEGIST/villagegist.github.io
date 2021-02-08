@@ -214,14 +214,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
 	
     </p>
   </div>
-iv class="w3-col l3 m6 w3-margin-bottom">
 
-      <img src=" THE TWO STRANGERS.jpg" alt="theDog" style="width:85%">
-      <h6><a href="THE TWO STRANGERS.html"> THE TWO STRANGERS</a></h6>
-      <p><a href="THE TWO STRANGERS.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
- 
-    </div>
-    </P>
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="image6.jpg" alt="John" style="width:95%">
@@ -315,6 +308,13 @@ iv class="w3-col l3 m6 w3-margin-bottom">
       <img src=" THE FROG AND HIS WIVES.jpg" alt="theDog" style="width:85%">
       <h6><a href="THE FROG AND HIS WIVES.html"> THE FROG AND HIS WIVES</a></h6>
       <p><a href=" THE FROG AND HIS WIVES.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
+    </P>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+<img src=" THE TWO STRANGERS.jpg" alt="theDog" style="width:85%">
+      <h6><a href="THE TWO STRANGERS.html"> THE TWO STRANGERS</a></h6>
+      <p><a href="THE TWO STRANGERS.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
     </P>
