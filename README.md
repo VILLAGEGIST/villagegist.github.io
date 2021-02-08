@@ -317,7 +317,14 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <p><a href="THE TWO STRANGERS.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
+ <div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src="THE MAGIC CROCODILE.jpg" alt="theDog" style="width:85%">
+      <h6><a href="THE MAGIC CROCODILE.html"> THE MAGIC CROCODILE</a></h6>
+      <p><a href="THE MAGIC CROCODILE.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
+    </div>
+   
     <p>
    <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%">
