@@ -303,11 +303,17 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
  
     </div>
     </P>
-    
+    <div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src=" THE FROG AND HIS WIVES.jpg" alt="theDog" style="width:85%">
+      <h6><a href="THE FROG AND HIS WIVES.html"> THE FROG AND HIS WIVES</a></h6>
+      <p><a href=" THE FROG AND HIS WIVES.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
+    </P>
     <p>
    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%"> 
-      <a href="AFRICAN MOONLIGHT NIGHT-TALE ENTERTAMENT.html">RETURN TO PAGE</a>
+      <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%">
       <h6><a href="Biography.html">PASTOR FELIX ITAMAN UWAMUSI</a></h6>
       <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
