@@ -266,18 +266,17 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
 	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="funnyFowl.jpeg" alt="FUNNY FOWL" style="width:85%">
       <h6><a href="FUNNY FOWL.html">THE FUNNY FOWL</a></h6>
-     ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
-  </div
+ 
 	
 	
 	 <P>
 	 <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="magicpot.jpg" alt="MAGIC POT" style="width:85%">
       <h6><a href="MAGIC POT.html">THE MAGIC POT</a></h6>
-     ><p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
+     <p><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></p>
     </div>
-  </div
   <P>
 	<div class="w3-col l3 m6 w3-margin-bottom">
       <img src="theDog.jpg" alt="theDog" style="width:85%">
