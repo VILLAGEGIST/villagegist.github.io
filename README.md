@@ -334,6 +334,17 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
  
     </div>
    </p>
+   
+   <P>
+	<div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src=" CAT AND THE MOUSE.jpg" alt="theDog" style="width:85%">
+      <h6><a href=" CAT AND THE MOUSE.html"> CAT AND THE MOUSE</a></h6>
+      <p><a href=" CAT AND THE MOUSE.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
+   </p>
+   
     <p>
    <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%">
