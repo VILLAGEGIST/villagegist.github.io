@@ -382,13 +382,23 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
  
     </div>
    </p>
-   THE CLEVER LIZARD
+  
   <P>
 	<div class="w3-col l3 m6 w3-margin-bottom">
 
       <img src="THE CLEVER LIZARD.jpg" alt="theDog" style="width:85%">
       <h6><a href="THE CLEVER LIZARD.html">THE CLEVER LIZARD</a></h6>
       <p><a href="THE CLEVER LIZARD.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
+   </p>
+   
+   <P>
+	<div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src="THE LOVE OF A MOTHER.jpg" alt="theDog" style="width:85%">
+      <h6><a href="THE LOVE OF A MOTHER.html">THE LOVE OF A MOTHER</a></h6>
+      <p><a href="THE LOVE OF A MOTHER.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
    </p>
