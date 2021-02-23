@@ -124,11 +124,6 @@ background-image: image5.jpg;
   <img src="image3.jpg" style="width:100%">
  
 </div>
-<div class="mySlides fade">
-  <div class="numbertext"></div>
-  <img src="THE AFRICAN FORKTALE.jpg" style="width:100%">
- 
-</div>
 </div>
 <br>
 
