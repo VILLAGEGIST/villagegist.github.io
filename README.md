@@ -426,7 +426,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
 	<div class="w3-col l3 m6 w3-margin-bottom">
 
       <img src="The Wise Dog.jpg" alt="theDog" style="width:85%">
-      <h6><a href="The Wise Dog.html">THE WISE GOAT</a></h6>
+      <h6><a href="The Wise Dog.html">The Wise Dog</a></h6>
       <p><a href="The Wise Dog.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
