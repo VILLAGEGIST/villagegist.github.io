@@ -450,6 +450,16 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
  
     </div>
    </p>
+  
+    <P>
+	<div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src=" THE UNWISE LION.jpg" alt="theDog" style="width:85%">
+      <h6><a href=" THE UNWISE LION.html"> THE UNWISE LION</a></h6>
+      <p><a href="THE UNWISE LION.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
+   </p>
     <p>
    <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="myself.jpg" alt="PASTOR FELIX" style="width:100%">
