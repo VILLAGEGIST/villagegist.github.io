@@ -430,6 +430,15 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <p><a href="The Wise Dog.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
+   </P>
+   <P>
+	<div class="w3-col l3 m6 w3-margin-bottom">
+
+      <img src=" THE LION AND THE JACKAL.jpg" alt="theDog" style="width:85%">
+      <h6><a href=" THE LION AND THE JACKAL.html"> THE LION AND THE JACKAL</a></h6>
+      <p><a href=" THE LION AND THE JACKAL.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
+ 
+    </div>
    </p>
     <p>
    <div class="w3-col l3 m6 w3-margin-bottom">
