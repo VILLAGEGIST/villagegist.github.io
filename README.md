@@ -478,7 +478,7 @@ Enjoy our collection of 5 minutes bedtime stories for kids and adults alike belo
       <p><a href="FRIENDSHIP WITH THE ENEMY.html"><button class="w3-button w3-light-blue w3-block">VISIT SITE</button></a></p>
  
     </div>
-		  </p>
+      </p>
 	  <P>
 	<div class="w3-col l3 m6 w3-margin-bottom">
 
